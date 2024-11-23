@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DanieleT25
 - 🎓 BSc in Computer Science
-- 🎓 MSc student in Data Science 
-- 📚 I wish to become a professional in data science
+- 🎓 MSc student in Data Science
+- 📖 Self-learning data engineering
+<!--- - 📚 I wish to become a professional in data science --->
 <!--- - 👀 I’m interested in learning to become a professional in my business sector --->
 <!--- - 🌱 I’m currently learning computer science on University of Catania --->
 <!--- - 💞️ I’m looking to collaborate on project --->
